@@ -69,3 +69,18 @@
   - https://docs.pytest.org/en/stable/fixture.html#parametrizing-fixtures
   - https://docs.pytest.org/en/stable/example/parametrize.html#indirect-parametrization
   
+## 9. Introduction to mock
+
+- [Video](https://youtu.be/dw2eNCzwBkk)
+- [Code](https://github.com/nikhilkumarsingh/pytest-tut/tree/master/tut9)
+- References:
+  - https://docs.python.org/3/library/unittest.mock.html
+
+
+## 10. Advanced mocking
+
+- [Video](https://youtu.be/M46H4GIdfl0)
+- [Code](https://github.com/nikhilkumarsingh/pytest-tut/tree/master/tut10)
+- References:
+  - https://docs.python.org/3/library/unittest.mock.html
+
